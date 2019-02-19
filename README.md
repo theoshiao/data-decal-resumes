@@ -11,7 +11,7 @@ This repo includes the resumes of the following people:
 * Jobs interested in: City Councilwoman, Midwest Regional Director of the National Parks Service, Governor of Indiana
 
 ###### Theodore Shiao
-* I am a student at UC Berkeley studying Computer Science and Business. I succesfully turned a good GPA into a mediocre one. I like being a student. I believe that the three most important things in life are a good GPA. This semester I am going to be very busy.
+* I am a student at UC Berkeley studying Computer Science and Business. This semester, I'm going to be very busy. I like being a student because we have a lot of freedom, and for the most part can do whatever we want. I like to eat food and try new things. I also like Kanye West.
 * Jobs interested in: Adidas Sponsored NBA Player, Food Vlogger, Professional Chef
 
 ###### [Name of Person that Resume 2 is about]
