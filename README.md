@@ -14,9 +14,9 @@ This repo includes the resumes of the following people:
 * I am a student at UC Berkeley studying Computer Science and Business. This semester, I'm going to be very busy. I like being a student because we have a lot of freedom, and for the most part can do whatever we want. I like to eat food and try new things. I also like Kanye West.
 * Jobs interested in: Adidas Sponsored NBA Player, Food Vlogger, Professional Chef
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Dev Thakkar]
+* I attend UC Berkeley and I study Data Science and Computer Science. In my fantasy life, I interned at Yelp as a software engineer and get all As always. Additionally, I play on the Cal Club basketball team that doesn't even exist in real life. I am originally from the East Coast. I like overthinking and eating pistachios.
+* Jobs interested in: [Tennis player, Youtuber, Quant Trader]
 
 ###### [Name of Person that Resume 3 is about]
 * 5 sentence summary describing the person from Resume 3.
