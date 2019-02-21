@@ -1,24 +1,20 @@
 # Data Science Skills Decal Project 1
 
-**Team Members:** Theodore Shiao, Sam Yuhan, Dev Thakkar
+**Team Members:** Theodore Shiao, Dev Thakkar, Samantha Yuhan
 
 **Resumes and Descriptions**  
 
 This repo includes the resumes of the following people:
 
-###### EXAMPLE: Leslie Knope (DELETE ME BEFORE SUBMITTING)
-* I am currently the Deputy Director of the Parks and Recreation Department of Pawnee, Indiana. In this position, I successfully turned a dangerous pit into a beautiful community park called the Pawnee Commons. I absolutely love my job! I believe that the three most important things in life are friends, waffles, and work... or I mean, waffles, friends, and work. I am just an example of what you need to do, so please delete me before turning your project in.
-* Jobs interested in: City Councilwoman, Midwest Regional Director of the National Parks Service, Governor of Indiana
-
 ###### Theodore Shiao
 * I am a student at UC Berkeley studying Computer Science and Business. This semester, I'm going to be very busy. I like being a student because we have a lot of freedom, and for the most part can do whatever we want. I like to eat food and try new things. I also like Kanye West.
 * Jobs interested in: Adidas Sponsored NBA Player, Food Vlogger, Professional Chef
 
-###### [Dev Thakkar]
+###### Dev Thakkar
 * I attend UC Berkeley and I study Data Science and Computer Science. In my fantasy life, I interned at Yelp as a software engineer and get all As always. Additionally, I play on the Cal Club basketball team that doesn't even exist in real life. I am originally from the East Coast. I like overthinking and eating pistachios.
-* Jobs interested in: [Tennis player, Youtuber, Quant Trader]
+* Jobs interested in: Tennis player, Youtuber, Quant Trader
 
-###### [Name of Person that Resume 3 is about]
-* 5 sentence summary describing the person from Resume 3.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### Samantha Yuhan
+* I am a sophomore at UC Berkeley, studying Data Science. I have a decent amount of experience with data, and I really enjoy data analytics! My main hobby is art, which I have been doing since I was young. I am a member of Innovative Design on campus and met a lot of cool people. I hope to learn a lot this semester!
+* Jobs interested in: Graphic Designer, Data Scientist, Personal Shopper
 
